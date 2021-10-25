@@ -1,5 +1,6 @@
 {
   "name": "web-pack",
+   "homepage": "https://Samshad7.github.io/web-pack",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
